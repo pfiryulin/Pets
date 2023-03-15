@@ -16,24 +16,7 @@
 
 
 <hr>
-<section>
 
-    <?php
-        for( $i =1; $i<10; $i++){
-
-        echo'
-    
-    <div class="card">
-        <div class="block"></div>
-        <div class="text">' . $i . '</div>
-    </div> ';
-
-        }
-    ?>
-
-    <div id="cardText"></div>
-    <div id="bValue"></div>
-</section>
 
 
 
